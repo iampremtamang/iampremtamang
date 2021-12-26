@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Prem Tamang</h1>
-<h3 align="center">A Django Developer from Kathmandu, Nepal</h3>
+
+<h1 align="center">Hi 👋, I'm <a href="https://premtamang.com"> Prem Tamang </a></h1>
+<p align="center" style="font-size:30px">I’m interested in Data Science and specifically Machine Learning, I’m currently working as Django Developer since a year. 
+If you are looking for collaboration in Python Web as well as Desktop Development Projects then ping me via email. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premtamang-pt&label=Profile%20views&color=0e75b6&style=flat" alt="premtamang-pt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premtamang-pt" alt="premtamang-pt" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, DSA in Python**
-
-- 📫 How to reach me **ktamangprem@gmail.com**
+- 🔭 I’m currently working at <a href="https://botsfolio.com"> Botsfolio </a> as Software Developer
+- 📫 How to reach me **ktamangprem@gmail.com** 
+-  🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m learning **Flutter, DSA in Python**
+- Visit <a href="https://premtamang.com">https:premtamang.com/ </a> to know more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
