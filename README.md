@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prem Tamang </h1>
-<p align="center" style="font-size:30px">I’m interested in Data Science and specifically Machine Learning, I’m currently working as Django Developer since a year. 
+<p align="center" style="font-size:30px">I’m interested in Data Science and specifically Machine Learning.
 If you are looking for collaboration in Python Web as well as Desktop Development Projects then ping me via email. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premtamang-pt&label=Profile%20views&color=0e75b6&style=flat" alt="premtamang-pt" /> </p>
