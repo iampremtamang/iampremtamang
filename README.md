@@ -5,12 +5,12 @@ If you are looking for collaboration in Python Web as well as Desktop Developmen
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premtamang-pt&label=Profile%20views&color=0e75b6&style=flat" alt="premtamang-pt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premtamang-pt" alt="premtamang-pt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampremtamang" alt="iampremtamang" /></a> </p>
 
 - 📫 How to reach me **ktamangprem@gmail.com** 
 -  🥅 2022 Goals: Contribute more to Open Source projects
 - 🌱 I’m learning **Flutter, DSA in Python**
-- Visit <a href="https://premtamang.com">https:premtamang.com/ </a> to know more.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
