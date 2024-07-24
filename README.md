@@ -8,7 +8,7 @@ If you are looking for collaboration in Python Web as well as Desktop Developmen
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampremtamang" alt="iampremtamang" /></a> </p>
 
 - 📫 How to reach me **ktamangprem@gmail.com** 
--  🥅 2023 Goals: Contribute more to Open Source projects
+-  🥅 2024 Goals: Contribute more to Open Source projects
 
 
 <h3 align="left">Connect with me:</h3>
